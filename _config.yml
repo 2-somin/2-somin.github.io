@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "이소민 | UI/UX Designer"
+title                    : "Product Designer 이소민"
 title_separator          : "-"
 name                     : &name "이소민"
-description              : &description "도예학과 출신 UI/UX 디자이너 이소민의 포트폴리오"
+description              : &description "Product Designer 이소민의 포트폴리오. 사용자 경험을 섬세하게 설계합니다."
 url                      : https://2-somin.github.io
 baseurl                  : ""
 repository               : "2-somin/2-somin.github.io"
@@ -24,16 +24,10 @@ author:
   # Biographic information
   avatar           : "my-notion-face-transparent.png"
   name             : "이소민"
-  bio              : "도예학과 출신 UI/UX 디자이너. 손으로 흙을 빚듯, 사용자 경험을 섬세하게 설계합니다."
+  bio              : "UI/UX 디자이너. 손으로 흙을 빚듯, 사용자 경험을 섬세하게 설계합니다."
   location         : "Seoul, Korea"
   uri              :
   email            : "somning650@gmail.com"
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -45,7 +39,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -131,8 +125,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "og-image.png"  # images/ 폴더 기준 파일명
+og_description           : "Product Designer 이소민의 포트폴리오. 사용자 경험을 섬세하게 설계합니다."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
