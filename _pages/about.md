@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "안녕하세요, 이소민입니다"
+description: "Product Designer 이소민의 포트폴리오. 사용자 경험을 섬세하게 설계합니다."
 author_profile: true
 redirect_from: 
   - /about/

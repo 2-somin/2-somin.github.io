@@ -139,7 +139,7 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 {% elsif site.og_image %}
-  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path | prepend: site.url }}">
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 {% endif %}
@@ -151,7 +151,7 @@
       "@type": "Person",
       "name": {{ site.name | jsonify }},
       "url": {{ seo_url | jsonify }},
-      "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | prepend: site.url | jsonify }}
+      "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
     }
   </script>
 {% endif %}
