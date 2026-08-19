@@ -1,32 +1,44 @@
 ---
 permalink: /
 title: "안녕하세요, 이소민입니다"
-description: "Product Designer 이소민의 포트폴리오. 사용자 경험을 섬세하게 설계합니다."
+description: "UX/UI Designer 이소민의 포트폴리오. 사용자 경험을 섬세하게 설계합니다."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-도예학과에서 시작해 UI/UX 디자인으로 나아가고 있는 디자이너입니다.  
+도예학과에서 시작해 UX/UI 디자인으로 나아가고 있는 디자이너입니다.  
 손으로 흙을 빚던 경험처럼, 사용자가 자연스럽게 손이 가는 인터페이스를 만드는 데 관심이 많습니다.
 
-## 학력
+## 핵심 역량
 
-**서울과학기술대학교** 공예학부 도예학과  
-2018년 입학 · 2024년 졸업
+**반복 업무 규칙화** — 반복 작업을 매뉴얼·템플릿으로 표준화해 상세페이지 제작시간 84%, 영상 제작시간 30% 단축  
+**협업과 소통** — 기획자·개발자·마케터 등 이해관계자를 조율해 일관된 기준 수립, 신규 팀원 온보딩 표준화  
+**주도적 실행** — 정해진 프로젝트 일정이 끝난 뒤 공모전을 발굴·제안해 3등 수상
 
 ## 경력
 
-**스타트업 디자인 인턴** · 6개월  
-제품 디자인 프로세스 전반 참여 — 리서치, 와이어프레임, UI 설계, 디자인 시스템
+**(주)웰로** · 제품실 디자인 인턴 | 2025.10 – 2026.03 (5개월)  
+정부·기업·개인을 데이터로 연결해 정책 정보 활용을 돕는 공공서비스 플랫폼  
+B2C(웰로) / B2B(웰로비즈) 서비스 UI 디자인 및 콘텐츠 제작 담당
 
-## 출시 앱
+- **커머스 상세페이지 효율화** — GPT봇 문구 자동화 + AI 이미지 생성으로 건당 제작시간 약 84% 단축, 온보딩 표준화
+- **광고 UI 가이드 설계** — 기획·개발·광고대행사 간 일관된 광고 노출 기준 수립, 제안서·가이드·PSD 템플릿 산출
+- **신규 커머스 디자인 보조** — 경쟁 서비스 분석 후 패턴 제안, 핵심 화면 UI 보조, 화면 정의서 작성
+- **콘텐츠 디자인** — Meta 광고, 3D 비주얼 썸네일, 제휴·시즌 프로모션 페이지 등 다양한 포맷 제작
+- **데이터·문서 제작** — 카카오뱅크·카카오페이 등 파트너사 대상 제안서 제작, 정책 데이터·보도자료 시각화
 
-| 앱 | 플랫폼 | 링크 |
-|---|---|---|
-| **틈틈잇** — AI가 생성하는 일일 퀴즈 앱 | AOS / iOS | [App Store](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726) · [Play Store](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat) |
-| **thip** — 커뮤니티형 독서 기록 서비스 | AOS / Web | [Play Store](https://play.google.com/store/apps/details?id=com.texthip.thip) · [Web](https://www.thip.co.kr/) |
+## 출시 앱 & 프로젝트
+
+| 프로젝트 | 유형 | 기간 | 성과 |
+|---|---|---|---|
+| **틈틈잇** | AI 학습 퀴즈 앱 · 퀴즈 포맷 & 온보딩 UX/UI | 2025.12 – 진행중 | UIBowl 공모전 3위 · 누적 활성 사용자 6,300명 · 출시 1개월 280 다운로드 |
+| **10분의 1 프로젝트** | 가정 영어교육 서비스 · 웹 UI & 브랜드 디자인 | 2024.09 – 진행중 | 유튜브 개설 3개월 만에 구독자 약 800명, 영상 제작시간 30% 단축 |
+| **Thip** | 독서감상 공유 플랫폼 · UX/UI & 브랜드 디자인 | 2025.02 – 2025.06 | 한이음 드림업 공모전 장려상 · 서울 청년센터 진구친구 지원사업 선정 |
+| **Wholesomelife** | 라이프스타일 커머스 · UX/UI & 프로토타입 | 2024.11 | 5인 디자인 팀, 2주간 기획·제작·발표 |
+
+[App Store - 틈틈잇](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726) · [Play Store - 틈틈잇](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat) · [Play Store - thip](https://play.google.com/store/apps/details?id=com.texthip.thip) · [Web - thip](https://www.thip.co.kr/)
 
 ## 사용 툴
 
@@ -35,4 +47,4 @@ redirect_from:
 
 ---
 
-*Last updated: 2026년 6월 2일*
+*Last updated: 2026년 8월*

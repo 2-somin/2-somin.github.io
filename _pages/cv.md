@@ -9,56 +9,100 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 학력
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**서울과학기술대학교** — 도예학과 졸업 / 금속공예학과 부전공  
+2018.03 – 2024.02
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 경력
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**(주)웰로** · 제품실 디자인 인턴  
+2025.10 – 2026.03 (5개월)
+
+정부·기업·개인을 데이터로 연결해 정책 정보 활용을 돕는 공공서비스 플랫폼  
+B2C(웰로) / B2B(웰로비즈) 서비스 UI 디자인 및 콘텐츠 제작 담당
+
+**커머스 상세페이지 효율화** | 웰로 - 고향사랑기부제 | 2026.01 – 03
+- 과제: 사진 보정·문구 작성이 포함된 상세페이지 제작비·시간 단축 (약 90분 소요)
+- 액션: 상세페이지 문구는 GPT봇 활용, 상품 이미지 AI로 제작
+- 성과: 신규 입사자 온보딩 표준화, 상세페이지 건당 제작 시간 약 **84% 단축**
+
+**광고 UI 가이드 설계** | 웰로 × AdsDrop | 2026.03
+- 과제: 광고 도입 초기, 일관된 광고 UI 기준이 필요
+- 액션: 기획·개발·광고대행사 간 일관된 광고 노출 기준 수립
+- 성과: 제안서·디자인 가이드·PSD 템플릿·아이콘 세트 등 산출물 제작
+
+**신규 커머스 서비스 디자인 보조** | 웰로 - 웰로컬마켓 | 2026.01 – 02
+- 과제: 신규 커머스 서비스의 상품·주문 화면 구조를 새로 정의
+- 액션: 경쟁 서비스 분석 후 패턴 제안, 핵심 화면 UI 보조, 기획·개발과 화면 정의
+
+**콘텐츠 디자인** | 웰로, 웰로비즈 | 2025.10 – 2026.03
+- Meta 광고 콘텐츠, 3D 비주얼 썸네일 등 다양한 포맷 제작
+- 기업(국민카드·신한카드 등), 지자체 제휴 프로모션 페이지 제작
+- 서비스 내 시즌 프로모션 페이지 제작
+
+**데이터·문서 제작** | 웰로, 웰로비즈 | 2025.10 – 2026.03
+- 카카오뱅크·카카오페이 등 파트너사 대상 제안서 제작
+- 정책 데이터·보도자료·제안서 시각화 및 보고서 형태 가공
+
+---
+
+## 프로젝트
+
+**틈틈잇** — AI 학습 퀴즈 서비스 | 2025.12 – 진행중  
+퀴즈 포맷, 온보딩 UX/UI · 콘텐츠 디자인
+- 출시 후 사용자 데이터 기반 9차 개선 지속, 온보딩 플로우 7→5단계 단축
+- UIBowl 공모전 3위 · 누적 활성 사용자 6,300명 · 출시 1개월 280 다운로드
+
+**10분의 1 프로젝트** — 가정 영어교육 서비스 | 2024.09 – 진행중  
+웹 UI 디자인 및 구축 · 브랜드 디자인
+- 사업화 방향 탐색 주도 (사용자 인터뷰, 설문조사 등)
+- 영상 콘텐츠를 템플릿화해 제작 시간 30% 단축
+- 유튜브 개설 3개월만에 구독자 약 800명 달성
+
+**Thip** — 독서감상 공유 플랫폼 | 2025.02 – 2025.06  
+UX/UI · 브랜드 디자인
+- 디자이너 2인 협업으로 모바일·웹 반응형 화면 대응
+- 과학기술정보통신부 주관 한이음 드림업 공모전(창의도전형) 장려상
+- 서울 청년센터 광진 청년 커뮤니티 지원사업(진구친구) 선정
+
+**Wholesomelife** — 라이프스타일 커머스 | 2024.11  
+UX/UI 디자인 · 프로토타입 설계
+- UX 설계·UI 디자인·프로토타입 제작
+- 5인 디자인 팀으로 참여, 약 2주간 기획·제작·발표
+
+---
+
+## 교육
+
+- 과학기술정보통신부 「수도권 ICT이노베이션스퀘어 바이브코딩 웹 프로젝트 과정」 수료 (80시간) — 2026.06
+- 하나금융지주 「하나 소셜벤처 유니버시티」 수료 — 2025.07
+- 임팩트닷커리어 「임팩트 커리어 마스터 6기」 수료 — 2025.05 – 07
+- 블루타이거 「UX/UI 실전 프로젝트」 수료 — 2024.11 – 2025.01
+- 고용노동부 청년 일경험 「인턴10: 경력같은 신입 양성 3기_UX/UI」 수료 — 2024.11 – 12
+- 윤빌리티 「비주얼 그래픽 디자인」, 「웹/모바일 디자인」, 「UX/UI 디자인」 수료 — 2024.03 – 09
+
+---
+
+## 수상
+
+- **(주)유아이볼** 「UIBowl 사이드 프로젝트 지원금 이벤트」 **3등** — 2026.05
+- **(주)스위그** 「스위프 앱 3기」 **우수 수료자 선정** — 2026.01
+- **스나이퍼팩토리** 「UX/UI 인턴형 프로그램 9기」 **우수 수료상** (참여기업 웰로) — 2025.12
+- **서울과학기술대학교** 도예학과 32회 졸업전시 **우수작 선정** — 2023.02
+
+---
+
+## 자격사항
+
+- **웹디자인개발기능사** — 한국산업인력공단, 2025.12
+- **GTQ (그래픽기술자격)** — 한국생산성본부, 2024.05
+
+---
+
+## 기술 스택
+
+**Design** — Figma · Adobe Photoshop · Adobe Illustrator · Adobe InDesign  
+**Development** — HTML · CSS · Git
